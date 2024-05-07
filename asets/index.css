@@ -231,6 +231,11 @@
     color: white;
     margin-top: 15px;
   }
+
+  .footer1-heading{
+    opacity: .6;
+  }
+
   .social-media {
     display: flex;
     justify-content: center;
@@ -277,6 +282,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    opacity: .5;
   }
   .footer2 .heading:hover {
     color: rgb(243, 168, 7);
